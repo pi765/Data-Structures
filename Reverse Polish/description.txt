@@ -1,0 +1,4 @@
+Implements a stack using a linked list and uses it to solve math expressions that use reverse polish notation.
+Reverse polish notation = writing arithmetic expressions where operators come after their operands (ex: 10 15 + = 25)
+
+handles errors: division by zero (-998), too many operands (-997), too many operators (-996), invalid pop/operator (-999)
